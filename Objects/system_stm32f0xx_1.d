@@ -1,0 +1,16 @@
+.\objects\system_stm32f0xx_1.o: RTE\Device\STM32F072RB\system_stm32f0xx.c
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx.h
+.\objects\system_stm32f0xx_1.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\core_cm0.h
+.\objects\system_stm32f0xx_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f0xx_1.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_version.h
+.\objects\system_stm32f0xx_1.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_compiler.h
+.\objects\system_stm32f0xx_1.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.1.0\CMSIS\Include\cmsis_armcc.h
+.\objects\system_stm32f0xx_1.o: .\inc\system_stm32f0xx.h
+.\objects\system_stm32f0xx_1.o: .\SPL_conf\stm32f0xx_conf.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_adc.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_can.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_gpio.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_iwdg.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_rcc.h
+.\objects\system_stm32f0xx_1.o: .\inc\stm32f0xx_misc.h
